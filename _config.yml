@@ -20,8 +20,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://huangpanzhang.github.io/test'
-baseurl: '/test'
+url: 'https://huangpanzhang.github.io/hs_web_b'
+baseurl: '/hs_web_b'
 title: 'Hate Speech Research'
 description: 'A website that links all research progress and datasets at Language Technology Lab in University Duisburg-Essen'
 permalink: pretty
